@@ -8,3 +8,7 @@ This repository contains the project as originally completed within a Jupyter No
 
 ## Special Thanks
 Special thanks to Udacity for this coursework and supporting data for this project!
+
+## Refactoring!
+
+I am refactoring this README!
